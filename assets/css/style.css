@@ -8,3 +8,9 @@
     background: url(../images/bg-img.jpg) no-repeat center;
     background-size: cover;
 }
+
+.hero-heading{
+    font-family: 'Lobster', cursive;
+    font-size: 48px;
+    color: #8a8585;
+}
