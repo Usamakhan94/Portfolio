@@ -3,3 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+#home{
+    background: url(../images/bg-img.jpg) no-repeat center;
+    background-size: cover;
+}
